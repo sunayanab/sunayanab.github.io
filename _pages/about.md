@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-original.jpg
+"original.jpg"
 
 I'm Sunayana.
