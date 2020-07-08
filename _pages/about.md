@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sunayana Bhargava"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
