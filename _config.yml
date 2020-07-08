@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunayana Bhargava"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Sunayana Bhargava"
 description              : &description "personal description"
 url                      : https://sunayanab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at the University of Sussex"
   location         : "Brighton, UK"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=oDIXna4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
